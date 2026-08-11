@@ -1,6 +1,6 @@
-# Resuma
+# resumeo
 
-Resuma is a simple resume builder that lets users enter their details and generate a resume using a predefined template.
+resumeo is a simple resume builder that lets users enter their details and generate a resume using a predefined template.
 
 ## Features
 
@@ -24,4 +24,4 @@ No additional setup or dependencies are required.
 
 ## Purpose
 
-Resuma was built as a simple frontend project to practice DOM manipulation, form handling, dynamic content generation, and responsive UI design.
+resumeo was built as a simple frontend project to practice DOM manipulation, form handling, dynamic content generation, and responsive UI design.
