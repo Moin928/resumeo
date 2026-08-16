@@ -1,6 +1,6 @@
-# resumeo
+# Resumeo
 
-resumeo is a simple resume builder that lets users enter their details and generate a resume using a predefined template.
+Resumeo is a simple resume builder that lets users enter their details and generate a resume using a predefined template.
 
 ## Features
 
